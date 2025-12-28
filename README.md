@@ -20,7 +20,7 @@ Backend: Node.js, Express.js RESTful API.
 Database: MongoDB with Mongoose ODM for schema validation and data population.
 
 Security: JSON Web Tokens (JWT) for stateless authentication.
-## Screenshots
+## Project Preview
 
 <p align="center">
   <img src="Screenshot 2025-12-28 142834.png" width="700" />
