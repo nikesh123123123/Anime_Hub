@@ -35,7 +35,4 @@ Security: JSON Web Tokens (JWT) for stateless authentication.
   <br/>
   <img src="Screenshot 2025-12-28 143112.png" width="700" />
   <br/>
-  <img src="Screenshot 2025-12-28 143128.png" width="700" />
-  <br/>
-  <img src="Screenshot 2025-12-28 143209.png" width="700" />
 </p>
