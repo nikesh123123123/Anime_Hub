@@ -20,3 +20,22 @@ Backend: Node.js, Express.js RESTful API.
 Database: MongoDB with Mongoose ODM for schema validation and data population.
 
 Security: JSON Web Tokens (JWT) for stateless authentication.
+## Screenshots
+
+<p align="center">
+  <img src="Screenshot 2025-12-28 142834.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 142921.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 143013.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 143036.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 143056.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 143112.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 143128.png" width="700" />
+  <br/>
+  <img src="Screenshot 2025-12-28 143209.png" width="700" />
+</p>
